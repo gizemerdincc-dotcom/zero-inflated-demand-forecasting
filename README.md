@@ -34,5 +34,8 @@ The goal is to build a lightweight forecasting framework capable of:
 - Visualization
 
 ## Status
+## Example Visualization
+
+![Full Evaluation](full_evaluation.png)
 
 Work in progress.
