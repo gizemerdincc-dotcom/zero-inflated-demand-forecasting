@@ -1,3 +1,12 @@
+A lightweight forecasting framework for sparse and intermittent demand prediction.
+
+## Key Features
+
+- Handles zero-inflated demand
+- Supports sparse time series
+- Lightweight and interpretable structure
+- Designed for operational forecasting scenarios
+
 # zero-inflated-demand-forecasting
 Neural forecasting framework for sparse and zero-inflated demand prediction
 
