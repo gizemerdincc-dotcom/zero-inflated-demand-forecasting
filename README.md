@@ -59,3 +59,24 @@ Accurate forecasting of intermittent demand can help organizations:
 - increase operational efficiency
 
 This framework was designed with real-world forecasting challenges in mind, where demand observations are sparse and highly irregular.
+
+## Example Results
+
+The forecasting framework is evaluated against baseline approaches using standard error metrics such as:
+
+- MAE 
+- RMSE
+- MAPE
+
+Future versions of this repository will include benchmark comparisons and visualization dashboards.
+
+## Project Structure
+
+```text
+data/
+notebooks/
+results/
+images/
+README.md
+requirements.txt
+```
