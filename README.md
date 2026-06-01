@@ -7,9 +7,6 @@ A lightweight forecasting framework for sparse and intermittent demand predictio
 - Lightweight and interpretable structure
 - Designed for operational forecasting scenarios
 
-# zero-inflated-demand-forecasting
-Neural forecasting framework for sparse and zero-inflated demand prediction
-
 This project presents a simplified forecasting framework for sparse and zero-inflated demand data.
 
 The approach combines:
@@ -70,13 +67,19 @@ The forecasting framework is evaluated against baseline approaches using standar
 
 Future versions of this repository will include benchmark comparisons and visualization dashboards.
 
-## Project Structure
-
-```text
+## Repository Structure
 data/
-notebooks/
+src/
 results/
-images/
 README.md
 requirements.txt
-```
+
+## Code
+
+The main demonstration script is available in:
+
+`src/main.py`
+
+A small sample dataset is included in:
+
+`data/sample_data.csv`
