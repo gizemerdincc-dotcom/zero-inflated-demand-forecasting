@@ -48,3 +48,14 @@ The goal is to build a lightweight forecasting framework capable of:
 ![Full Evaluation](full_evaluation.png)
 
 Work in progress.
+
+## Business Value
+
+Accurate forecasting of intermittent demand can help organizations:
+
+- reduce inventory costs
+- improve stock availability
+- support procurement decisions
+- increase operational efficiency
+
+This framework was designed with real-world forecasting challenges in mind, where demand observations are sparse and highly irregular.
